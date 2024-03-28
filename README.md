@@ -1,9 +1,8 @@
 ### Hi there 👋
-
-<!--
-**Irina-Kondratenko/Irina-Kondratenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Привет! 👋
+
+
+
 
 ### ✨ Обо мне за 30 секунд ✨ 
 * 🎓 Образование:
@@ -67,3 +66,7 @@
 ### 🙌🏻 Contact me
 - [Telegram]()
 - [Kaggle]()
+
+<!--
+**Irina-Kondratenko/Irina-Kondratenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
