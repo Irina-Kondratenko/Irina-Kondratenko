@@ -15,7 +15,7 @@
 
 ### 📚 Проекты 📚
 
-* Кликни [сюда](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Documents/Homework.md) чтобы посмотреть мои проекты.
+* Кликни [сюда](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/README.md), чтобы посмотреть.
 
 <!--
 **Irina-Kondratenko/Irina-Kondratenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
