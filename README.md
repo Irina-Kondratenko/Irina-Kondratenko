@@ -13,13 +13,15 @@
 
 Здесь на GitHub я сохраняю свои конспекты и домашние задания.
 
+### 📚 Проекты 📚
+
+* Кликни [сюда](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Documents/Homework.md) чтобы посмотреть мои проекты.
+
 <!--
 **Irina-Kondratenko/Irina-Kondratenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-### 📚 Проекты 📚
 
-* Кликни [сюда](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Documents/Homework.md) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
