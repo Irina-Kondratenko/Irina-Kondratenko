@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-### ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
    Здравствуйте, меня зовут Ирина. Я студентка онлайн-школы SkillFactory. На мой взгляд IT-сфера сегодня
 одна из самых быстрорастущих и развивающихся отраслей. В современном мире информационные технологии нашли
@@ -9,14 +9,29 @@
 
    Я прохожу обучение на курсе Data Science. В настоящий момент я в самом начале сложного,
 но интересного пути.
+
 **Моя цель** - освоить новую интересную профессию и стать первоклассным
 специалистом в сфере IT-технологий.
 
 Здесь на GitHub я сохраняю свои конспекты и домашние задания.
 
-### 📚 Проекты 📚
+### 📚 Проекты: 📚
 
 * Кликни [сюда](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/README.md), чтобы посмотреть.
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+Hello, my name is Irina. I am a student at SkillFactory online school. In my opinion, the IT sector today is one of the fastest growing and developing industries. In the modern world, information technologies have found their application in many industries. They allow not only the development of programs and applications, but also the creation of smart cities, artificial intelligence and extended reality.
+
+I am taking a Data Science course. At the moment I am at the very beginning of a difficult but interesting path.
+
+**My goal** is to master a new interesting profession and become a first-class specialist in the field of IT technologies.
+
+This is where I save my notes and homework on GitHub.
+
+### 📚 Projects: 📚
+Click [here] (https://github.com/Irina-Kondratenko/SkillFactory/blob/main/README.md) to view.
+
 
 <!--
 **Irina-Kondratenko/Irina-Kondratenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
