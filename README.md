@@ -27,7 +27,7 @@ IT technologies.**
 
 ### 📚 Проекты / Projects: 📚
 
-* Кликни, чтобы посмотреть / Click to view: [✍](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/README.md).
+✍ Кликни, чтобы посмотреть / Click [here](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/README.md) to view.
 
 <!--
 **Irina-Kondratenko/Irina-Kondratenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
