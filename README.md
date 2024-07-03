@@ -25,6 +25,8 @@ but also the creation of smart cities, artificial intelligence and extended real
 IT technologies.**  
    This is where I save my notes and homework on GitHub.
 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 ### 📚 Проекты / Projects: 📚
 
 ✍ Кликни, чтобы посмотреть / Click [here](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/README.md) to view.
